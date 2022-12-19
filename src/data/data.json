@@ -1,0 +1,239 @@
+{
+  "pages": [
+    {
+      "title": "Inicio",
+      "href": "#header",
+      "pageName": "Header",
+      "showInMenu": false,
+      "data": {
+        "title": "  Acme Shopping",
+        "logoNav": "/img/logo-simplera.png",
+        "buttonText": "Learn More"
+      },
+      "order": 1
+    },
+    {
+      "title": "Inicio",
+      "href": "#MainMessage",
+      "pageName": "ImgWithMessage",
+      "showInMenu": false,
+      "data": {
+        "filter": "grayscale(50%)",
+        "marginTop": "0px",
+        "marginBottom": "0px",
+        "maxHeight": "500px",
+        "img": "img/img-01.jpg",
+        "title": "Nuevos Accesorios!!",
+        "text1": "Tenemos novedades que te sorprenderán!",
+        "text2": "",
+        "buttonHref": "",
+        "buttonText": ""
+      },
+      "order": 2
+    },
+
+    {
+      "title": "Inicio",
+      "href": "#messageWelcome",
+      "pageName": "Cta",
+      "showInMenu": false,
+      "data": {
+        "titleCta": "",
+        "textCta": "Bienvenidos a nuestra tienda Virtual!!, Tenemos los mejores productos, a los mejores precios, todas las semanas tenemos nuevos productos que te sorprenderán.",
+        "onAction": "",
+        "textAction": ""
+      },
+      "order": 3
+    },
+
+    {
+      "title": "Productos",
+      "href": "#products",
+      "pageName": "Portfolio",
+      "showInMenu": true,
+      "data": {
+        "title": "Productos Disponibles!",
+        "paragraph": "Nuetra variedad de productos crece día a día",
+        "href": "portfolio-details.html",
+        "pathProducts": "products.json",
+        "pathCategories": "category.json",
+        "addToCartButtonText": "Agregar al Carro",
+        "numberOfProductsShow": 4
+      },
+      "order": 5
+    },
+
+    {
+      "pageName": "CartShopping",
+      "href": "#cart",
+      "title": "Carrito",
+      "showInMenu": true,
+      "data": {
+        "title": "Carrito de Compras",
+        "headerTableProduct": "Producto",
+        "headerTableProductPrice": "Precio",
+        "headerTableProductQuantity": "Cantidad",
+        "totalPay": "Total",
+        "buttonReview": "Revisar Orden"
+      },
+      "order": 6
+    },
+
+    {
+      "title": "Servicios",
+      "href": "#ourServices",
+      "pageName": "OurServices",
+      "showInMenu": true,
+      "data": {
+        "title": "Tenemos Excelentes Servicios",
+        "paragraph": "Nuestros servicios se complementan perfectamente con los productos que ya has comprado",
+        "items": [
+          {
+            "title": "Envío a Domicilio",
+            "text": "Llevamos los productos a donde tú quieras!, tenemos entrega express",
+            "iconClass": "bx bx-shopping-bag",
+            "href": "#footer"
+          },
+          {
+            "title": "Gift Cards",
+            "text": "Tarjetas de Regalo para Empresas, puedes comprar a excelentes precios regalos para tu fuerza laboral",
+            "iconClass": "bx bx-gift",
+            "href": "#footer"
+          },
+          {
+            "title": "Reparaciones",
+            "text": "Podemos reparar tus productos actuales sin problema!, solo traelos y lo dejamos como nuevo",
+            "iconClass": "bx bx-wrench",
+            "href": "#footer"
+          }
+        ]
+      },
+      "order": 12
+    },
+
+    {
+      "title": "Acerca de",
+      "href": "#aboutUs",
+      "pageName": "About",
+      "showInMenu": true,
+      "data": {
+        "left": true,
+        "video": "",
+        "img": "img/img-04.jpg",
+        "titleAbout": "Acme Shopping",
+        "paragraph": "Una tienda de demostración",
+        "titleSkills": "Esta no es una tienda verdadera, es solo para que puedas ver el tipo de página que puedes tener!, y para conseguirla ",
+        "subTitleSkills": " es muy SIMPLE!",
+        "textSkills": "Solo debes entregarnos el contenido de cada uno de estas secciones, las imágenes que te gustaría incoporar (nosotros también te podemos ayudar en eso), y listo!.",
+        "subTextSkills": "Nunca fue tan SIMPLE tener tu sitio web profesional, concéntrate en hacer que tu negocio crezca, nosotros nos preocupamos que la tecnología sea un aliado y no un dolor de cabeza.",
+        "skills": [
+          {
+            "language": "Acá puedes incorporar contenido adicional",
+            "percentage": ""
+          },
+          {
+            "language": "Incluso con porcentajes",
+            "percentage": "80%"
+          }
+        ]
+      },
+
+      "order": 15
+    },
+
+    {
+      "title": "¿Porqué Elegirnos?",
+      "href": "#WhyUs",
+      "pageName": "AttributesWithImage",
+      "showInMenu": true,
+      "data": {
+        "title": "¿Porqué Elegirnos?",
+        "paragraph": "Nuestra calidad ya la conoces, además tenemos otras características diferenciadoras del resto!",
+        "marginTop": "50px",
+        "paddingBottom": "50px",
+        "marginBottom": "50px",
+        "maxHeight": "630px",
+        "left": true,
+        "video": "",
+        "img": "img/img-03.jpg",
+        "items": [
+          {
+            "title": "El mejor precio",
+            "iconClass": "bx bx-money-withdraw",
+            "iconColor": "green",
+            "href": "#footer"
+          },
+          {
+            "title": "Entregas seguras y rápidas",
+            "iconClass": "bx bx-car",
+            "iconColor": "blue",
+            "href": "#footer"
+          },
+          {
+            "title": "Accesibilidad en todas las tiendas",
+            "iconClass": "bx bx-accessibility",
+            "iconColor": "pink",
+            "href": "#footer"
+          },
+          {
+            "title": "Personal Calificado",
+            "iconClass": "bx bx-body",
+            "iconColor": "green",
+            "href": "#footer"
+          },
+          {
+            "title": "Personal Siempre Feliz",
+            "iconClass": "bx bx-happy-heart-eyes",
+            "iconColor": "red",
+            "href": "#footer"
+          }
+        ]
+      },
+
+      "order": 16
+    },
+
+    {
+      "title": "Inicio",
+      "href": "#CallToAction2",
+      "pageName": "Cta",
+      "showInMenu": false,
+      "data": {
+        "titleCta": "Es lo que necesito",
+        "textCta": "",
+        "onAction": "#footer",
+        "textAction": "me gustaría saber mas"
+      },
+      "order": 17
+    },
+
+    {
+      "title": "Contáctanos",
+      "pageName": "Footer",
+      "href": "#footer",
+      "showInMenu": true,
+      "orgId": "DEMOCART-WEB-PUBLIC",
+      "data": {
+        "titleContact": "Contáctenos!",
+        "title": "Acme Shopping",
+        "paragraph": "Contáctanos! Descubre como tener tu sitio profesional de forma SIMPLE!",
+        "buttonTitle": "Enviar mensaje",
+        "address": "",
+        "phone": "",
+        "email": "cami@simplera.cl",
+        "titleComments": "",
+        "textDesignBy": "Contruido por ",
+        "designByName": "Simplera.cl",
+        "designByUrl": "https://Simplera.cl",
+        "linkedin": "",
+        "github": "",
+        "instagram": "",
+        "whatsapp": "",
+        "twitter": "",
+        "facebook": "",
+        "sendOkMessage": "Mensaje Enviado!!"
+      },
+      "order": 31
+    }
+  ]
+}

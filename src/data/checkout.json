@@ -1,0 +1,48 @@
+{
+    "pageName": "Checkout",
+    "href": "#checkout",
+    "data": {
+      "titlePage": "Checkout",
+      "titleCart": "Resumen de Compra",
+      "titleDataClient": "Tus Datos",
+      "message": "Una vez confirmado el pago nos contactaremos con usted para poder coordinar el envio",
+      "quantityProduct": "Cantidad",
+      "totalBuy": "Total a Pagar",
+      "addressClient": "Dirección",
+      "addressComentaryClient": "Comentarios de la Dirección",
+      "nameCliente": "Nombre",
+      "lastNameCliente": "Apellidos",
+      "phoneClient": "Celular",
+      "emailClient": "Email",
+      "regionClient": "Región",
+      "comunaClient": "Comuna",
+      "payment": "Forma de Pago",
+      "buttonReturn":"Volver",
+      "arrayPayment": [
+        {
+          "id": "Webpay Transbank",
+          "name": "Webpay Transbank",
+          "img": "/img/checkout/Webpay_FB_300px.png",
+          "route": "/checkout/webpay",
+          "buttonName": "Pagar",
+          "active": false
+        }, 
+        {
+          "id": "Transferencia Bancaria",
+          "name": "Transferencia",
+          "img": "/img/checkout/transferencia.png",
+          "route": "/checkout/transfer",
+          "buttonName": "Continuar",
+          "active": true
+        } , 
+        {
+          "id": "WebPay MercadoPago",
+          "name": "WebPay MercadoPago",
+          "img": "/img/checkout/Webpay_FB_300px.png",
+          "route": "/checkout/webpay",
+          "buttonName": "Pagar",
+          "active": false
+        } 
+      ]
+    }
+  }

@@ -1,0 +1,14 @@
+[
+    {
+        "categoryId": "APP",
+        "categoryName": "Cremas"
+    },
+    {
+        "categoryId": "WEB",
+        "categoryName": "Varios"
+    },
+    {
+        "categoryId": "CARD",
+        "categoryName": "Decoración"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "pageName": "transferPay",
+    "data": {
+      "titlePage": "Pedido Recibido",
+      "titleCart": "Resumen del Pedido",
+      "titleDataBank": "Datos Bancarios",
+      "message": "Coordinaremos el envio una vez que nos adjuntes el comprobante de transfernecia por e-mail o whatsapp",
+      "messageTransfer": "Para asociar rapidamente tu transferencia con tu pedido, indicar el numero de pedido en el comentario de tu transferencia",
+      "headerTableProduct":"Producto",
+      "headerTableProductDetails":"Detalle de Producto",
+      "headerTableProductPrice":"Precio",
+      "totalPay":"Total:",
+      "labelNameBank": "Banco:",
+      "lableName":"Nombre:",
+      "labelIdPersonBankTransfer": "RUT:",
+      "labelTypeAccount": "Tipo de Cuenta:",
+      "labelNumberAccount": "Número de Cuenta:",
+      "labelEmailTransfer": "Email:",
+      "orderID":"Número de Pedido:",
+      "buttonBack":"Volver al Inicio",
+      "dateTransfer":{
+        "nameBank": "Banco Santander",
+        "typeAccount": "Cuenta Corriente",
+        "fullNamePersonBank": "Juan Andres Perez Perez",
+        "idPersonBankTransfer": "12.345.678-9",
+        "numberAccount": "78521465",
+        "emailTransfer": "cami@simplera.cl"
+      }
+    }
+  }

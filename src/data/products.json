@@ -1,0 +1,91 @@
+[
+    {
+      "id" : "app01",
+      "title": "Tasa",
+      "image": ["/img/portfolio/portfolio-1.jpg"],
+      "productDescription":"Tasa Multiuso",
+      "productPrice":1000,
+      "productPriceNew":1000,
+      "category":"APP",
+      "featuredArticle":true
+    },
+    {
+      "id" : "app02",
+      "title": "Maquillaje",
+      "image": ["/img/portfolio/portfolio-2.jpg"],
+      "productDescription":"Un excelente maquillaje",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"APP"
+      ,"featuredArticle":true
+    },
+    {
+      "id" : "app03",
+      "title": "Crema Humectante",
+      "image": ["/img/portfolio/portfolio-3.jpg"],
+      "productDescription":"Para toda Ocasión",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"APP",
+      "featuredArticle":true
+    },
+    {
+      "id" : "web01",
+      "title": "Planta Interior",
+      "image": ["/img/portfolio/portfolio-4.jpg"],
+      "productDescription":"Perfecto para la decoración del hogar",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"WEB",
+      "featuredArticle":false
+    },
+    {
+      "id" : "web02",
+      "title": "Perfume 500ml",
+      "image": ["/img/portfolio/portfolio-5.jpg"],
+      "productDescription":"Perfume 500ml",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"WEB",
+      "featuredArticle":true
+    },
+    {
+      "id" : "web03",
+      "title": "Crema de Coco",
+      "image": ["/img/portfolio/portfolio-6.jpg"],
+      "productDescription":"Perfecta para toda piel",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"WEB",
+      "featuredArticle":true
+    },
+    {
+      "id" : "card01",
+      "title": "Agua Mineral",
+      "image": ["/img/portfolio/portfolio-7.jpg"],
+      "productDescription":"Agua Mineral 500ML",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"CARD",
+      "featuredArticle":false
+    },
+    {
+      "id" : "card02",
+      "title": "Silla Escritorio",
+      "image": ["/img/portfolio/portfolio-8.jpg"],
+      "productDescription":"Silla muy cómoda para trabajar",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"CARD"
+    },
+    {
+      "id" : "card03",
+      "title": "Platos de Decoración",
+      "image": ["/img/portfolio/portfolio-9.jpg"],
+      "productDescription":"Agua de 500ML",
+      "productPrice":1000,
+      "productPriceNew":800,
+      "category":"CARD",
+      "featuredArticle":true
+    }
+  ]
