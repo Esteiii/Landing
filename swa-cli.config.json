@@ -1,0 +1,14 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "con-alma-viajera": {
+      "appLocation": ".",
+      "outputLocation": "build",
+      "appBuildCommand": "npm run build",
+      "run": "npm start",
+      "appDevserverUrl": "http://localhost:3000",
+      "appName": "rg-simplera-demo-almaviajera-dev-001",
+      "resourceGroupName": "rg-simplera-demo-001"
+    }
+  }
+}
